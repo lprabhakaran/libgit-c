@@ -1,4 +1,4 @@
-libgit2 - the Git linkable library      Test   test
+libgit2 - the Git linkable library      Test   test  
 ================================== 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9609/badge)](https://www.bestpractices.dev/projects/9609)
  
